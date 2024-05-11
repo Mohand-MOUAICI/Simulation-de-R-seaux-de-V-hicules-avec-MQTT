@@ -26,7 +26,7 @@ pip install paho-mqtt
 
 2. **Clonez le dépôt**
    ```bash
-   git clone [https://yourrepository.git](https://github.com/Mohand-MOUAICI/Simulation-de-R-seaux-de-V-hicules-avec-MQTT.git)
+   git clone https://github.com/Mohand-MOUAICI/Simulation-de-R-seaux-de-V-hicules-avec-MQTT.git
    cd project-folder
    ```
 
